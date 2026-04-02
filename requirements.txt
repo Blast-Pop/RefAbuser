@@ -1,0 +1,9 @@
+
+undetected-chromedriver>=3.5.5
+selenium>=4.20.0
+pyautogui>=0.9.54
+
+
+setuptools
+python-dotenv
+
