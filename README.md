@@ -4,25 +4,25 @@ Advanced Python-based referral link testing tool using automated browser interac
 
 ---
 
-## ?? Disclaimer
+## Disclaimer
 
-This project is provided for **educational and research purposes only**.  
-The author is **not responsible** for any misuse or illegal activities performed using this software.
+This project is provided for educational and research purposes only.  
+The author is not responsible for any misuse or illegal activities performed using this software.
 
 ---
 
-## ?? Goal
+## Goal
 
 The purpose of this project is to demonstrate:
 
 - Automation using Selenium and ChromeDriver
-- Handling anti-bot protections (e.g., Cloudflare Turnstile)
+- Handling anti-bot protections (e.g. Cloudflare Turnstile)
 - Testing referral link validity
-- Proof-of-concept (PoC) for automation and bypass techniques
+- Proof-of-concept (PoC) for automation techniques
 
 ---
 
-## ?? Proof of Concept (PoC)
+## Proof of Concept (PoC)
 
 This tool demonstrates:
 
@@ -33,7 +33,7 @@ This tool demonstrates:
 
 ---
 
-## ?? Installation
+## Installation
 
 ### 1. Clone the repository
 
